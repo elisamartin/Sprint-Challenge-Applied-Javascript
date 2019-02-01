@@ -32,13 +32,24 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+DOM stands for Document Object Model, it's created when the browser load a webpage. It's a object-oriented representation of the html elements of a webpage. It gives us an interface that we can interact with and manipulate the page with. 
+The DOM model represents a document with a logical tree wherein each node is an object representing a part of the document.
+
 2. What is an event?
+
+An action that takes places in the DOM, can be mouse events like 'click', keyboard events, etc
 
 3. What is an event listener?
 
+Is a function that will take place when a given event happens on the target element
+
 4. Why would we convert a NodeList into an Array?
 
+We can convert a NodeList into an Array to give us more methods to use
+
 5. What is a component?
+
+A collection of code that can be re-used and allow us to easily add more content to the original app, or to new apps
 
 ### Git Set up
 
